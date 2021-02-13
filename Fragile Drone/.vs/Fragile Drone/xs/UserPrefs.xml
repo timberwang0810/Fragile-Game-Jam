@@ -1,20 +1,12 @@
 ﻿<Properties StartupConfiguration="{B9D36029-C5EB-D71F-0819-BB7EB5735FE0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharacterController2D.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="29" Column="6" />
-      <File FileName="Assets/Scripts/Player.cs" Line="7" Column="25" />
-      <File FileName="Assets/Scripts/CharacterController2D.cs" Line="4" Column="14" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="29" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Fragile Drone" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="CharacterController2D.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Fragile Drone" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
